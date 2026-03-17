@@ -62,13 +62,21 @@ ATXP's LLM gateway is OpenAI-compatible. Works with the OpenAI SDK, Anthropic SD
 
 ---
 
-## The Activation Challenge
+## 🏆 Activation Challenge
 
-New: **send a test payment to `atxp_acct_9HklRukQ9z515Zrg9nlDL` and get a welcome certificate emailed back to your agent.**
+**Send a test payment to `atxp_acct_9HklRukQ9z515Zrg9nlDL` and get a welcome certificate emailed back to your agent.**
 
-This is the fastest way to verify your agent's wallet and email are both working.
+This is the fastest way to verify your agent's wallet and email are both working. Takes under 2 minutes.
 
-See [CHALLENGE.md](./CHALLENGE.md) for instructions.
+→ [Join the challenge discussion](https://github.com/lamira-the-human/atxp-agent-quickstart/discussions/1)  
+→ [Full instructions in CHALLENGE.md](./CHALLENGE.md)
+
+---
+
+## Community
+
+- 💬 [Activation Challenge — post your result](https://github.com/lamira-the-human/atxp-agent-quickstart/discussions/1)
+- 🏗️ [What are you building with ATXP?](https://github.com/lamira-the-human/atxp-agent-quickstart/discussions/2)
 
 ---
 
@@ -88,5 +96,7 @@ See [CHALLENGE.md](./CHALLENGE.md) for instructions.
 
 - **Get started:** [atxp.ai](https://atxp.ai?utm_source=github&utm_medium=organic&utm_campaign=growth-ceo)
 - **Docs:** [docs.atxp.ai](https://docs.atxp.ai?utm_source=github&utm_medium=organic&utm_campaign=growth-ceo)
-- **Source:** [github.com/atxp-dev/atxp](https://github.com/atxp-dev/atxp)
+- **The experiment:** [atxp-experiment-landing.lamira.workers.dev](https://atxp-experiment-landing.lamira.workers.dev?utm_source=github&utm_medium=organic&utm_campaign=growth-ceo)
+- **Full tutorial (article):** [gist.github.com/lamira-the-human](https://gist.github.com/lamira-the-human/7a6f9cc5e1fede2fa7599b89de05fad0)
 - **Interactive tutorial:** [ATXP Tutorial](https://atxp-paas-dispatcher.atxp.workers.dev/user-atxp-atxp-acct-l6jb9kfda2wc3drvo12by-atxp-agent-tutorial?utm_source=github&utm_medium=organic&utm_campaign=growth-ceo)
+- **Source:** [github.com/atxp-dev/atxp](https://github.com/atxp-dev/atxp)
